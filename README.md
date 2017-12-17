@@ -1,2 +1,1 @@
-# staChat
-just simple chat
+# chatWebSocket
