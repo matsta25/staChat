@@ -1,7 +1,7 @@
 # chatWebSocket
 
 Demo:
-    https://stachat.herokuapp.com/
+    :fire: https://stachat.herokuapp.com/ :fire:
 
 To run it type:
   - npm install
